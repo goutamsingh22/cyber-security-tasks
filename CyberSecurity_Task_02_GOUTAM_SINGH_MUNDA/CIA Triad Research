@@ -22,7 +22,7 @@ If systems become unavailable, business operations, communication, and critical 
 Real-World Example
 An e-commerce website such as an online shopping platform should remain accessible to customers throughout the day.
 
-CIA Triad Comparison Table
+#CIA Triad Comparison Table
 
 Concept	Definition	Why It Is Important	Real-World Example
 Confidentiality	Ensures that information is accessible only to authorized individuals.	Protects sensitive data from unauthorized access, theft, or disclosure.	Online banking systems protect customer account details using passwords and encryption.
