@@ -1,0 +1,56 @@
+
+1. Phishing
+Definition
+Phishing is a cyberattack in which attackers trick people into revealing sensitive information such as passwords, banking details, or personal data by pretending to be a trusted organization.
+Real-World Example
+A user receives an email claiming to be from a bank asking them to click a link and verify their account details. The link leads to a fake website designed to steal login credentials.
+Prevention Methods
+•	Do not click suspicious links.
+•	Verify the sender before responding to emails.
+•	Enable Multi-Factor Authentication (MFA).
+•	Check website URLs carefully.
+
+2. Malware
+Definition
+Malware is malicious software designed to damage, disrupt, or gain unauthorized access to a computer system.
+Real-World Example
+A user downloads a free software program from an untrusted website, which secretly installs malware on the computer.
+Prevention Methods
+•	Install and update antivirus software.
+•	Download software only from trusted sources.
+•	Keep the operating system updated.
+•	Avoid opening suspicious attachments.
+
+3. Ransomware
+Definition
+Ransomware is a type of malware that encrypts files and demands payment from the victim to restore access.
+Real-World Example
+The WannaCry ransomware attack infected thousands of computers worldwide and locked users out of their files until a ransom was paid.
+Prevention Methods
+•	Maintain regular backups of important data.
+•	Keep software and systems updated.
+•	Avoid clicking unknown links or attachments.
+•	Use security software and firewalls.
+
+4. Social Engineering
+Definition
+Social engineering is a technique used by attackers to manipulate people into revealing confidential information or performing actions that compromise security.
+Real-World Example
+An attacker pretends to be an IT support employee and asks an employee for their login credentials.
+Prevention Methods
+•	Verify the identity of anyone requesting sensitive information.
+•	Never share passwords.
+•	Provide cybersecurity awareness training.
+•	Be cautious of unexpected requests.
+
+5. Data Breach
+Definition
+A data breach occurs when sensitive or confidential information is accessed, stolen, or exposed without authorization.
+Real-World Example
+A company database containing customer names, email addresses, and passwords is accessed by hackers and leaked online.
+Prevention Methods
+•	Use strong and unique passwords.
+•	Enable Multi-Factor Authentication.
+•	Encrypt sensitive data.
+•	Regularly update and patch systems.
+•	Limit access to sensitive information.
