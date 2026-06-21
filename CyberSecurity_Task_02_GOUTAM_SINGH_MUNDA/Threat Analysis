@@ -1,0 +1,71 @@
+Common Cybersecurity Threats
+
+1. Insider Threat
+Description
+An insider threat occurs when a current or former employee, student, contractor, or authorized user intentionally or unintentionally causes harm to an organization's systems or data.
+Possible Impact
+•	Data theft or leakage
+•	Unauthorized access to confidential information
+•	Financial and reputational damage
+•	Disruption of business operations
+Prevention Methods
+•	Implement access controls and least-privilege policies
+•	Monitor user activities and system logs
+•	Conduct employee security awareness training
+•	Revoke access immediately when users leave the organization
+
+2. Malware
+Description
+Malware is malicious software designed to damage, disrupt, or gain unauthorized access to computer systems and data.
+Possible Impact
+•	Data loss or corruption
+•	System slowdown or crashes
+•	Unauthorized access to sensitive information
+•	Financial losses
+Prevention Methods
+•	Install and update antivirus software
+•	Download software only from trusted sources
+•	Keep operating systems updated
+•	Avoid opening suspicious attachments and links
+
+3. Phishing
+Description
+Phishing is a cyberattack in which attackers impersonate trusted organizations to trick users into revealing passwords, banking details, or other sensitive information.
+Possible Impact
+•	Account compromise
+•	Identity theft
+•	Financial fraud
+•	Unauthorized access to systems
+Prevention Methods
+•	Verify email senders before responding
+•	Avoid clicking suspicious links
+•	Enable Multi-Factor Authentication (MFA)
+•	Provide cybersecurity awareness training
+
+4. Weak Passwords
+Description
+Weak passwords are easy-to-guess passwords that lack sufficient complexity and can be cracked by attackers.
+Possible Impact
+•	Unauthorized account access
+•	Data breaches
+•	Identity theft
+•	Compromised organizational systems
+Prevention Methods
+•	Use long and complex passwords
+•	Use unique passwords for each account
+•	Enable Multi-Factor Authentication (MFA)
+•	Use a password manager
+
+5. Unpatched Systems
+Description
+Unpatched systems are computers or applications that have not received the latest security updates and fixes.
+Possible Impact
+•	Exploitation of known vulnerabilities
+•	Malware infections
+•	Data breaches
+•	System compromise
+Prevention Methods
+•	Regularly install security updates and patches
+•	Enable automatic updates where possible
+•	Conduct vulnerability assessments
+•	Maintain an effective patch management process
