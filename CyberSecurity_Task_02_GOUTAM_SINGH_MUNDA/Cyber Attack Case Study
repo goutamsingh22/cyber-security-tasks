@@ -1,0 +1,28 @@
+#WannaCry Ransomware Attack
+
+What Happened?
+WannaCry was a ransomware attack that occurred in May 2017. The malware spread rapidly across computers worldwide by exploiting a vulnerability in Microsoft Windows systems. Once a computer was infected, the ransomware encrypted files and demanded payment in Bitcoin to restore access.
+The attack affected organizations, businesses, hospitals, and government agencies in more than 150 countries.
+
+Which Part of the CIA Triad Was Affected?
+Availability
+The primary CIA Triad component affected was Availability. Users were unable to access their files and systems because the ransomware encrypted the data.
+Integrity
+Integrity was also affected because files were modified and encrypted without the owner's permission.
+
+
+What Was the Impact?
+•	Thousands of computers were infected worldwide.
+•	Hospitals in the United Kingdom had to cancel appointments and medical procedures.
+•	Businesses experienced operational disruptions.
+•	Organizations suffered financial losses and downtime.
+•	Important files became inaccessible until systems were restored.
+
+How Could It Have Been Prevented?
+The attack could have been prevented by:
+1.	Regularly updating operating systems and installing security patches.
+2.	Using antivirus and endpoint protection software.
+3.	Creating regular backups of important data.
+4.	Avoiding suspicious email attachments and links.
+5.	Implementing strong cybersecurity awareness training for employees.
+6.	Keeping network security systems properly configured and updated.
