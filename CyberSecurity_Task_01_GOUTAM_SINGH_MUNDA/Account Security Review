@@ -1,0 +1,21 @@
+## Account Security Review
+
+| Account | MFA Enabled? | Strong Password? | Recovery Email Configured? |
+|----------|-------------|------------------|---------------------------|
+| Google | Yes | Yes | Yes |
+| GitHub | Yes | Yes | Yes |
+| LinkedIn | No | Yes | Yes |
+
+Findings
+Google Account
+•	Multi-Factor Authentication (MFA) is enabled.
+•	A strong password is being used.
+•	Recovery email is configured for account recovery.
+GitHub Account
+•	MFA is enabled to provide additional security.
+•	A strong password is configured.
+•	Recovery email is available for account recovery.
+LinkedIn Account
+•	MFA is not enabled.
+•	A strong password is being used.
+•	Recovery email is configured.
