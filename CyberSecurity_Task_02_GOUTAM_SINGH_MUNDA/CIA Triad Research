@@ -1,0 +1,36 @@
+1. Confidentiality
+Definition
+Confidentiality is the protection of information from unauthorized access or disclosure.
+Why It Is Important
+It ensures that sensitive information such as passwords, personal details, and financial records are only accessible to authorized users.
+Real-World Example
+When you log into your Gmail account using a password and Multi-Factor Authentication (MFA), your emails are protected from unauthorized access.
+
+2. Integrity
+Definition
+Integrity ensures that data remains accurate, complete, and unchanged unless modified by authorized individuals.
+Why It Is Important
+Users and organizations must be able to trust that their data has not been altered or corrupted.
+Real-World Example
+In an online examination system, student marks should only be modified by authorized faculty members.
+
+3. Availability
+Definition
+Availability ensures that systems, applications, and data are accessible whenever authorized users need them.
+Why It Is Important
+If systems become unavailable, business operations, communication, and critical services may be disrupted.
+Real-World Example
+An e-commerce website such as an online shopping platform should remain accessible to customers throughout the day.
+
+CIA Triad Comparison Table
+
+Concept	Definition	Why It Is Important	Real-World Example
+Confidentiality	Ensures that information is accessible only to authorized individuals.	Protects sensitive data from unauthorized access, theft, or disclosure.	Online banking systems protect customer account details using passwords and encryption.
+Integrity	Ensures that data remains accurate, complete, and unaltered unless modified by authorized users.	Prevents unauthorized changes and maintains trust in the data.	A university database ensures that student grades cannot be modified by unauthorized users.
+Availability	Ensures that information and systems are accessible whenever needed by authorized users.	Allows users to access services and data without interruption.	A hospital's patient management system must remain available 24/7 for doctors and staff.
+
+| Concept | Definition | Why It Is Important | Real-World Example |
+|----------|------------|--------------------|-------------------|
+| Confidentiality | Ensures that information is accessible only to authorized individuals. | Protects sensitive data from unauthorized access, theft, or disclosure. | Online banking systems protect customer account details using passwords and encryption. |
+| Integrity | Ensures that data remains accurate, complete, and unaltered unless modified by authorized users. | Prevents unauthorized changes and maintains trust in the data. | A university database ensures that student grades cannot be modified by unauthorized users. |
+| Availability | Ensures that information and systems are accessible whenever needed by authorized users. | Allows users to access services and data without interruption. | A hospital's patient management system must remain available 24/7 for doctors and staff. |
