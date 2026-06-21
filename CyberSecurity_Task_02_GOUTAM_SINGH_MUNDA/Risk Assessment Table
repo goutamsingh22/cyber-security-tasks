@@ -1,0 +1,31 @@
+College Risk Assessment Table
+
+| Asset | Threat | Likelihood | Impact | Risk Level |
+|--------|--------|------------|--------|------------|
+| Student Records | Data Breach / Unauthorized Access | High | High | High |
+| Examination Data | Data Tampering / Theft | Medium | High | High |
+| College Website | DDoS Attack / Website Defacement | Medium | Medium | Medium |
+| Faculty Information | Phishing Attack / Identity Theft | High | Medium | High |
+| Network Infrastructure | Malware / Ransomware Attack | Medium | High | High |
+| Learning Management System (LMS) | Unauthorized Access | Medium | High | High |
+| Library Database | Data Loss / System Failure | Low | Medium | Medium |
+| Email System | Phishing / Spam Attacks | High | Medium | High |
+
+#Asset Analysis
+
+1. Student Records
+Student records contain personal and academic information. If unauthorized users gain access, sensitive information could be leaked or misused.
+2. Examination Data
+Examination papers, grades, and results must remain confidential and accurate. Unauthorized modifications could affect academic integrity.
+3. College Website
+The college website provides important information to students and staff. Cyberattacks can make the website unavailable or damage the institution's reputation.
+4. Faculty Information
+Faculty records contain personal and professional information. Attackers may target these records through phishing or social engineering attacks.
+5. Network Infrastructure
+Routers, switches, servers, and wireless networks are critical for college operations. Malware or ransomware can disrupt connectivity and services.
+6. Learning Management System (LMS)
+The LMS stores course materials, assignments, and grades. Unauthorized access could compromise academic information.
+7. Library Database
+The library database stores book records and user information. Data loss can affect library operations and student access.
+8. Email System
+College email accounts are frequently targeted by phishing attacks. Compromised email accounts can lead to data theft and unauthorized access.
