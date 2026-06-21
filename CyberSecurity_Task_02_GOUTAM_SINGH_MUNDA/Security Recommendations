@@ -1,0 +1,41 @@
+Based on the risk assessment, the following security recommendations can help protect college systems, data, and users from cyber threats.
+
+1. Enable Multi-Factor Authentication (MFA)
+Why It Is Important
+MFA adds an extra layer of security by requiring users to verify their identity using a second factor such as an OTP or authentication app. This reduces the risk of unauthorized access even if passwords are compromised.
+
+2. Implement Strong Password Policies
+Why It Is Important
+Strong passwords are harder for attackers to guess or crack. Password policies should require a mix of letters, numbers, and special characters and encourage regular password updates.
+
+3. Perform Regular System Updates
+Why It Is Important
+Software updates and security patches fix known vulnerabilities. Keeping systems updated reduces the risk of attacks that exploit outdated software.
+
+4. Conduct Security Awareness Training
+Why It Is Important
+Students, faculty, and staff should be educated about phishing, malware, and social engineering attacks. Awareness helps users recognize and avoid common cyber threats.
+
+5. Maintain Regular Data Backups
+Why It Is Important
+Regular backups help recover important information in the event of ransomware attacks, hardware failures, or accidental data deletion.
+
+6. Install and Update Antivirus Software
+Why It Is Important
+Antivirus software helps detect, block, and remove malware before it can damage systems or steal information.
+
+7. Apply Access Control Policies
+Why It Is Important
+Users should only have access to the resources necessary for their roles. Limiting access reduces the impact of insider threats and unauthorized activities.
+
+8. Monitor Network Activity
+Why It Is Important
+Continuous monitoring helps identify suspicious behavior, unauthorized access attempts, and potential cyberattacks before significant damage occurs.
+
+9. Use Firewalls and Network Security Devices
+Why It Is Important
+Firewalls filter incoming and outgoing traffic, helping protect systems from unauthorized access and malicious network activity.
+
+10. Secure Sensitive Data with Encryption
+Why It Is Important
+Encryption protects confidential information by making it unreadable to unauthorized users. Even if data is intercepted, it remains protected.
